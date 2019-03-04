@@ -1,0 +1,141 @@
+Traceback (most recent call last):
+  File "/usr/local/python3.4/bin/scrapy", line 11, in <module>
+    sys.exit(execute())
+  File "/usr/local/python3.4/lib/python3.4/site-packages/scrapy/cmdline.py", line 141, in execute
+    cmd.crawler_process = CrawlerProcess(settings)
+  File "/usr/local/python3.4/lib/python3.4/site-packages/scrapy/crawler.py", line 240, in __init__
+    configure_logging(self.settings)
+  File "/usr/local/python3.4/lib/python3.4/site-packages/scrapy/utils/log.py", line 100, in configure_logging
+    handler = _get_handler(settings)
+  File "/usr/local/python3.4/lib/python3.4/site-packages/scrapy/utils/log.py", line 109, in _get_handler
+    handler = logging.FileHandler(filename, encoding=encoding)
+  File "/usr/local/python3.4/lib/python3.4/logging/__init__.py", line 1006, in __init__
+    StreamHandler.__init__(self, self._open())
+  File "/usr/local/python3.4/lib/python3.4/logging/__init__.py", line 1035, in _open
+    return open(self.baseFilename, self.mode, encoding=self.encoding)
+FileNotFoundError: [Errno 2] No such file or directory: '/hbasestorage/spider/spider_logs/mop/scrapy.logs'
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
+news item put failure!
